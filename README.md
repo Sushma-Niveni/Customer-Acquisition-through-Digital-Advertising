@@ -8,13 +8,6 @@ This project focuses on analyzing and evaluating customer acquisition strategies
 Customer Acquisition Analysis: Examines the impact of digital advertising on customer behavior, including income and purchase patterns, using statistical tests.
 Non-Compliance Analysis: Investigates the effects of vitamin A supplementation on mortality rates, considering compliance and treatment impact.
 
-## Directory Structure
-
-- `data/`: Contains dataset files (`GameFun.xlsx` and `sommer_deger.csv`).
-- `src/`: Contains Python scripts for data analysis.
-  - `exercise1.py`: Analyzes customer acquisition data.
-  - `exercise2.py`: Analyzes non-compliance in randomized experiments.
-  - `utils.py`: Contains helper functions for data analysis.
 
 ## Requirements
 
@@ -26,8 +19,4 @@ Non-Compliance Analysis: Investigates the effects of vitamin A supplementation o
 Install dependencies using:
 pip install -r requirements.txt
 
-## Usage
-
-1. Place your data files in the `data/` directory.
-2. Run the analysis scripts from the `src/` directory.
 
